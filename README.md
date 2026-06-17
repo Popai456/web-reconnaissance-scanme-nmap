@@ -1,5 +1,11 @@
 # 🔍 Web Reconnaissance and Enumeration Assessment
 
+## Author
+
+**Tatinee Singha Biswas**  
+BCA Student | Cybersecurity Enthusiast | Ethical Hacking & Penetration Testing
+
+---
 ## Overview
 
 This repository documents a reconnaissance and enumeration assessment performed against **scanme.nmap.org**, an authorized training target provided by the Nmap Project.
